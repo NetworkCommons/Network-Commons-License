@@ -1,7 +1,7 @@
 # Network-Commons-License
 
 ## Background Links
-- [PicoPeering Agreement]([http:](https://picopeer.net/)
+- [PicoPeering Agreement](https://picopeer.net/)
 - [GuiFi Net FONN Compact](https://guifi.net/en/FONNC)
 
 ## Existing Standalone Local Versions
