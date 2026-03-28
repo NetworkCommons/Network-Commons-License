@@ -6,5 +6,5 @@
 
 ## Existing Standalone Local Versions
 - [Tuscon Mesh v1.0](https://www.tucsonmesh.net/principles/network-commons-license)
-- [NYC Mesh v1.02](https://www.nycmesh.net/ncl.pdf)
-- [Mass Mesh](https://github.com/MassMesh/governance)
+- [NYC Mesh v1.0.2](https://www.nycmesh.net/ncl.pdf)
+- [Mass Mesh v1.0.4](https://github.com/MassMesh/governance)
