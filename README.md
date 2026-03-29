@@ -3,6 +3,7 @@
 ## Background Links
 - [PicoPeering Agreement](https://picopeer.net/)
 - [GuiFi Net FONN Compact](https://guifi.net/en/FONNC)
+- Early [netCommons project outputs mentioning NCL](https://dsg.ac.upc.edu/rogerb-phd/) and other material from Roger Baig (GuifiNet)
 
 ## Existing Standalone Local Versions
 - [Tuscon Mesh v1.0](https://www.tucsonmesh.net/principles/network-commons-license)
